@@ -1,3 +1,5 @@
+(*me chia var bratuxa*)
+
 (*tail of the list*)
 
 let rec tail_of_list list = 
